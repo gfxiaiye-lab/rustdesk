@@ -1,0 +1,1 @@
+This file triggers submodule update to use custom hbb_common
